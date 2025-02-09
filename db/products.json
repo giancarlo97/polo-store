@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "title": "REMERA MANGA CORTA SUNSET WHITE 1",
+      "description": "La esencial, atemporal y más elegida. Remera cuello redondo con bordado a contratono. Realizada en jersey 100% algodón. Su proceso de sanforizado asegura que la remera mantenga su forma y suavidad lavado tras lavado. Esta remera es carbon neutral: fue producida en armonía con el medioambiente.",
+      "price": "$45000"
+    },
+    {
+      "id": 2,
+      "title": "REMERA MANGA CORTA SUNSET GREEN APPLE",
+      "description": "La esencial, atemporal y más elegida. Remera cuello redondo con bordado a contratono. Realizada en jersey 100% algodón. Su proceso de sanforizado asegura que la remera mantenga su forma y suavidad lavado tras lavado. Esta remera es carbon neutral: fue producida en armonía con el medioambiente.",
+      "price": "$50000"
+    },
+    {
+      "id": 3,
+      "title": "REMERA MANGA CORTA SUNSET YELLOW STRONG",
+      "description": "La esencial, atemporal y más elegida. Remera cuello redondo con bordado a contratono. Realizada en jersey 100% algodón. Su proceso de sanforizado asegura que la remera mantenga su forma y suavidad lavado tras lavado. Esta remera es carbon neutral: fue producida en armonía con el medioambiente.",
+      "price": "$50000"
+    },
+    {
+      "id": 4,
+      "title": "REMERA MANGA CORTA SUNSET LILA",
+      "description": "La esencial, atemporal y más elegida. Remera cuello redondo con bordado a contratono. Realizada en jersey 100% algodón. Su proceso de sanforizado asegura que la remera mantenga su forma y suavidad lavado tras lavado. Esta remera es carbon neutral: fue producida en armonía con el medioambiente.",
+      "price": "$50000"
+    },
+    {
+      "id": 5,
+      "title": "JEAN ALABAMA BLUE W24",
+      "description": "Jean azul comfort 5 bolsillos. Realizado en denim stretch para lograr más movilidad y comodidad. Su calce comfort es más amplio y permite mayor libertad de movimiento. Composición: 76% algodón 23% polyester 1% elastano.",
+      "price": "99000"
+    },
+    {
+      "id": 6,
+      "title": "JEAN CHARLOTTE BLUE W24",
+      "description": "Jean azul comfort 5 bolsillos. Realizado en denim stretch para lograr más movilidad y comodidad. Su calce comfort es más amplio y permite mayor libertad de movimiento.",
+      "price": "99000"
+    },
+    {
+      "id": 7,
+      "title": "BOLSO VINCENT BLACK",
+      "description": "BOLSO CHICO CON BOLSILLOS 100% POLYESTER",
+      "price": "99000"
+    },
+    {
+      "id": 8,
+      "title": "EAU BLUE",
+      "description": "Fragancia con una fusión de limón, almendra, cedro, pachuli y vainilla. Evoca la libertad del gran cielo azul, la energía de las aguas abiertas y una tonificante explosión de aire fresco.",
+      "price": "$45000"
+    },
+    {
+      "id": 9,
+      "title": "EAU SILVER",
+      "description": "Fragancia con una fusión aromática amaderada, creada para hombres sofisticados y seguros de sí mismos que viven su vida con elegancia. La fusión de cardamomo, cedro y vainilla representan una combinación de energía y seguridad perfecta.",
+      "price": "$45000"
+    },
+    {
+      "id": 10,
+      "title": "GORRA RANDY BEIGE",
+      "description": "Gorra cup tipo tracker con colores a contraste. Parche bordado en altorrelieve. Randy le da un estilo moderno a cualquier look, y es perfecta para acompañarte un día de sol.",
+      "price": "$25000"
+    }
+]
